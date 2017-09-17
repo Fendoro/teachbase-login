@@ -14,5 +14,5 @@ Checkout this repo, install dependencies, create secrets.js in src folder, where
 > git clone https://github.com/Fendoro/teachbase-login.git
 > cd teachbase-login
 > npm install
-> npm run server
+> npm run start
 ```
